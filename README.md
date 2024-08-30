@@ -1,10 +1,12 @@
-This is the public website for the [mezanno.xyz](https://mezanno.xyz) project.
+**Mezanno:** *Collaborative and Assisted Annotation of Public Textual Resources Published with the IIIF API*
 
-It aims at facilitating the collective annotations of textual resources published with the [IIIF API](https://iiif.io/), mainly by extending the [Mirador viewer](https://projectmirador.org/).
+Welcome to the public website for the [Mezanno project](https://mezanno.xyz).
 
-This is a common project between the [National French Library (BnF)](https://www.bnf.fr/), the [EPITA graduate school of computer science](https://www.epita.fr/), the [French National Mapping agency (IGN)](https://www.ign.fr/), and the [French school of advances studies in social sciences (EHESS)](https://www.ehess.fr/).
+Our goal is to facilitate the collaborative annotation of textual resources published with the [IIIF API](https://iiif.io/), primarily through enhancements to the [Mirador viewer](https://projectmirador.org/).
 
-The project will be active from Fall 2024 to Summer 2026. It is currently starting.
+This project is a collaboration between the [National Library of France (BnF)](https://www.bnf.fr/), the [EPITA Graduate School of Computer Science](https://www.epita.fr/), the [French National Institute of Geographic and Forest Information (IGN)](https://www.ign.fr/), and the [School for Advanced Studies in the Social Sciences (EHESS)](https://www.ehess.fr/).
+
+The project will run from Fall 2024 to Summer 2026 and is currently in its early stages.
 
 *More content will be published soon. Thank you for your patience.*
 
