@@ -6,4 +6,6 @@ This is a common project between the [National French Library (BnF)](https://www
 
 The project will be active from Fall 2024 to Summer 2026. It is currently starting.
 
-*Please wait for more content to be published…*
+*More content will be published soon. Thank you for your patience.*
+
+*— The Mezanno Team*
