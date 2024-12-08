@@ -8,7 +8,7 @@ This project is a collaboration between the [National Library of France (BnF)](h
 
 The project will run from Fall 2024 to Summer 2026 and is currently in its early stages.
 
-Our first action consists in organizing a seminar on *Collaboratif Annotation and IIIF" at the French National Library (BnF), on Jan. 24, 2025. It's preliminary program is available below.
+Our first action consists in organizing a seminar on *"Collaboratif Annotation and IIIF"* at the French National Library (BnF), on Jan. 24, 2025. It's preliminary program is available below.
 
 *— Mezanno Team: N. Abadie (IGN), E. Carlinet (EPITA), J. Chazalon (EPITA), P. Cristofoli (EHESS), B. Dumenieu (EHESS), J.-P. Moreux (BnF), J. Perret (IGN)*
 
@@ -44,3 +44,14 @@ eScriptorium is a platform for the automatic transcription of handwritten and pr
 AIKON is a modular platform for humanities researchers, combining artificial intelligence and computer vision to analyze large-scale heritage collections. It offers tools for visualizing, extracting, and analyzing historical illustrations while supporting interdisciplinary collaboration and the sustainability of digital projects.
 Registration
 
+## About the Mezanno Project
+
+Recent technological breakthroughs in fields such as artificial intelligence, the creation of cross-platform user interfaces, and the ease of deploying services have opened new avenues for research in social sciences. Large corpora of serial historical sources, such as censuses, directories, dictionaries, cadastres, or official publications, can now be processed semi-automatically to generate fine-grained, large-scale quantitative data of sufficient quality for research purposes. However, while the associated scientific methodology is becoming more refined, researchers still lack tools to efficiently query, organize, and construct their research objects from digitized archival collections. This challenge is even greater when dealing with massive corpora that are impossible to exploit without appropriate tools.
+
+The Mezanno Project, organizer of this workshop, aims to create a suite of open and interoperable tools for assisted annotation of customized corpora, supported by a community of users and contributors. These tools are designed to address three key stages:
+
+- Corpus construction,
+- Raw data extraction,
+- Structuring the data according to a model relevant for analysis, while ensuring the interoperability of the exported data.
+
+Mezanno will rely heavily on the IIIF standard to easily assemble corpora from public resources and will integrate artificial intelligence modules to assist user groups in extracting or transcribing raw content from the documents of interest.
