@@ -32,23 +32,23 @@ These enriched texts are better indexed by search engines and enhance the visibi
 **☕ Coffee Break 🥐**
 
 🔵 **Presentation of the [Adno Platform](https://adno.app/)** by **Thierry Pasquier**, Project Manager for "Digital Cultures," Espace Mendès France, Center for Scientific, Technical, and Industrial Culture, Poitiers, Nouvelle-Aquitaine  
-Adno is a free, user-friendly web application for creating annotation series on IIIF-compliant images and beyond. Designed in collaboration with cultural and scientific mediators, it allows the creation, presentation, and sharing of guided or self-guided tours within images. It is also of interest to researchers and has potential applications for a broad audience.
+**Adno** is a free, user-friendly web application for creating annotation series on IIIF-compliant images and beyond. Designed in collaboration with cultural and scientific mediators, it allows the creation, presentation, and sharing of guided or self-guided tours within images. It is also of interest to researchers and has potential applications for a broad audience.
 
 🔵 **Presentation of the [Arkindex Platform](https://arkindex.teklia.com/)** by **Christopher Kermorvant**, President of TEKLIA, Specialist in Digitized Document Processing with AI  
-Arkindex is an open-source platform for digitized document processing developed by TEKLIA since 2019. The goal of Arkindex is to handle any type of document, using any algorithm, at any scale.
+**Arkindex** is an open-source platform for digitized document processing developed by TEKLIA since 2019. The goal of Arkindex is to handle any type of document, using any algorithm, at any scale.
 
 🔵 **Presentation of the [eScriptorium Platform](https://escriptorium.inria.fr/)** by **Peter Stokes**, Director of Studies at EPHE-PSL and Co-Director of eScriptorium  
-eScriptorium is a platform for the automatic transcription of handwritten and printed documents (HTR). The software is free, open-source, and designed to handle a wide variety of scripts.
+**eScriptorium** is a platform for the automatic transcription of handwritten and printed documents (HTR). The software is free, open-source, and designed to handle a wide variety of scripts.
 
 🔵 **Presentation of the [AIKON Platform](https://aikon-platform.github.io/)** by **Ségolène Albouy**, Research Engineer of the Imagine Team at LIGM, Member of the ERC Discover Project  
-AIKON is a modular platform for humanities researchers, combining artificial intelligence and computer vision to analyze large-scale heritage collections. It offers tools for visualizing, extracting, and analyzing historical illustrations while supporting interdisciplinary collaboration and the sustainability of digital projects.
+**AIKON** is a modular platform for humanities researchers, combining artificial intelligence and computer vision to analyze large-scale heritage collections. It offers tools for visualizing, extracting, and analyzing historical illustrations while supporting interdisciplinary collaboration and the sustainability of digital projects.
 Registration
 
 ## About the Mezanno Project
 
 Recent technological breakthroughs in fields such as artificial intelligence, the creation of cross-platform user interfaces, and the ease of deploying services have opened new avenues for research in social sciences. Large corpora of serial historical sources, such as censuses, directories, dictionaries, cadastres, or official publications, can now be processed semi-automatically to generate fine-grained, large-scale quantitative data of sufficient quality for research purposes. However, while the associated scientific methodology is becoming more refined, researchers still lack tools to efficiently query, organize, and construct their research objects from digitized archival collections. This challenge is even greater when dealing with massive corpora that are impossible to exploit without appropriate tools.
 
-The Mezanno Project, organizer of this workshop, aims to create a suite of open and interoperable tools for assisted annotation of customized corpora, supported by a community of users and contributors. These tools are designed to address three key stages:
+**The Mezanno Project**, organizer of this workshop, aims to create a suite of open and interoperable tools for assisted annotation of customized corpora, supported by a community of users and contributors. These tools are designed to address three key stages:
 
 - Corpus construction,
 - Raw data extraction,
