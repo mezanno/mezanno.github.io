@@ -18,7 +18,7 @@ Our first action consists in organizing a [seminar on *"Collaboratif Annotation 
 
 **📝 Registration** is free but mandatory: <https://bit.ly/20250124-seminaire-mzn-bnf>
 
-### Agenda (tentative) — 9:00 🕘 to 12:30 🕧
+### Agenda (tentative) — 9:00 🕘 to 13:00 🕐
 🔵 Presentation of the Mezzano Project
 
 🔵 **Presentation of the [Glycerine Platform](https://glycerine.io/)** by **Ian Mc Crabb**, Director of [Systemik Solutions](https://systemiksolutions.com/) (Australia)  
