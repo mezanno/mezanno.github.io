@@ -45,6 +45,8 @@ These enriched texts are better indexed by search engines and enhance the visibi
 🔵 **Presentation of the [AIKON Platform](https://aikon-platform.github.io/)** by **Ségolène Albouy**, Research Engineer of the Imagine Team at LIGM, Member of the ERC Discover Project  
 > **AIKON** is a modular platform for humanities researchers, combining artificial intelligence and computer vision to analyze large-scale heritage collections. It offers tools for visualizing, extracting, and analyzing historical illustrations while supporting interdisciplinary collaboration and the sustainability of digital projects.
 
+🔵 **Presentation of the [Arvest Platform](https://arvest.app/)** by **Jacob Hart**, Post-doctoral fellow at the Université Rennes 2 and member of the project _From Stage to Data_  
+> **Arvest** is an open-source, IIIF-driven platform designed for multimodal research, enabling the creation, annotation, and navigation of document networks across images, videos, audio, and texts. With machine learning capabilities and an accessible API, Arvest integrates seamlessly into complex data processing workflows. It facilitates fluid analysis, supporting both close and distant perspectives while maintaining a strong connection to primary sources.
 
 ## About the Mezanno Project
 
