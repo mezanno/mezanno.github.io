@@ -14,6 +14,11 @@ Our first action consisted in organizing a [seminar on *"Collaboratif Annotation
 
 *— Mezanno Team: N. Abadie (IGN), E. Carlinet (EPITA), J. Chazalon (EPITA), P. Cristofoli (EHESS), B. Dumenieu (EHESS), J.-P. Moreux (BnF), J. Perret (IGN)*
 
+## Corpusense
+You may be interested in our [Corpusense tool](https://mezanno.xyz/corpusense/) ✨, which enables rapid _IIIF collection-to-structured data_ transformation.
+
+We provide two deployments of this tool: a stable version at <https://mezanno.xyz/corpusense/> which changes less frequently, and a development version <https://mezanno.xyz/corpusense-dev/> which breaks every day or so.
+
 ## Seminar on *Collaborative Annotation and IIIF*, Jan. 24, 2025 @ BnF
 
 🔵 Presentation of the Mezanno Project  
