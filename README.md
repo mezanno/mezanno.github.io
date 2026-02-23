@@ -19,6 +19,8 @@ You may be interested in our [Corpusense tool](https://mezanno.xyz/corpusense/) 
 
 We provide two deployments of this tool: a stable version at <https://mezanno.xyz/corpusense/> which changes less frequently, and a development version <https://mezanno.xyz/corpusense-dev/> which breaks every day or so.
 
+📧 [**Subscribe to our newsletter**](https://groupes.renater.fr/sympa/subscribe/corpusense-news) to receive all updates about Corpusense: training sessions, important updates…
+
 ## Seminar on *Collaborative Annotation and IIIF*, Jan. 24, 2025 @ BnF
 
 🔵 Presentation of the Mezanno Project  
