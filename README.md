@@ -10,7 +10,7 @@
   document.getElementById("email").innerHTML =
     `<a href="mailto:${addr}">${addr}</a>`;
 </script>
-<hr/>
+<hr/>**
 
 ## Welcome
 > **Mezanno:** *Collaborative and Assisted Annotation of Public Textual Resources Published with the IIIF API*
