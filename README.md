@@ -1,4 +1,15 @@
 **Jump to: [Welcome](#welcome) | [Seminar on Collaborative Annotation and IIIF](#seminar-on-collaborative-annotation-and-iiif-jan-24-2025--bnf) | [About the Mezanno Project](#about-the-mezanno-project)**
+
+**Or contact us at:
+<span id="email"></span>
+
+<script>
+  const e = ["contact", "mezanno.xyz"];
+  const addr = e[0] + "@" + e[1];
+
+  document.getElementById("email").innerHTML =
+    `<a href="mailto:${addr}">${addr}</a>`;
+</script>
 <hr/>
 
 ## Welcome
