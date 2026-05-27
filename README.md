@@ -2,15 +2,7 @@
 
 **Or contact us at:
 <span id="email"></span>
-
-<script>
-  const e = ["contact", "mezanno.xyz"];
-  const addr = e[0] + "@" + e[1];
-
-  document.getElementById("email").innerHTML =
-    `<a href="mailto:${addr}">${addr}</a>`;
-</script>
-<hr/>**
+<script src="/resources/email.js"></script>**
 
 ## Welcome
 > **Mezanno:** *Collaborative and Assisted Annotation of Public Textual Resources Published with the IIIF API*
