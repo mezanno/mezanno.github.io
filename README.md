@@ -1,8 +1,8 @@
 **Jump to: [Welcome](#welcome) | [Seminar on Collaborative Annotation and IIIF](#seminar-on-collaborative-annotation-and-iiif-jan-24-2025--bnf) | [About the Mezanno Project](#about-the-mezanno-project)**
 
-**Or contact us at:
+**Or contact us at:**
 <span id="email"></span>
-<script src="/resources/email.js"></script>**
+<script src="/resources/email.js"></script>
 
 ## Welcome
 > **Mezanno:** *Collaborative and Assisted Annotation of Public Textual Resources Published with the IIIF API*
